@@ -56,6 +56,7 @@
 <img width="432" height="219" alt="image" src="https://github.com/user-attachments/assets/8f5ee704-3698-4010-8dcc-26d763e32e8e" />
 
 **Example Output**
+
 <img width="823" height="449" alt="image" src="https://github.com/user-attachments/assets/28ceed73-a188-45e3-af72-01f81e8e183d" />
 <img width="810" height="281" alt="image" src="https://github.com/user-attachments/assets/9287d862-cd8c-4966-8e4b-ff016a4b71b3" />
 <img width="827" height="449" alt="image" src="https://github.com/user-attachments/assets/102f1e9d-a2a0-48a7-acf4-344c3f1008b4" />
